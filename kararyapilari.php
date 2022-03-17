@@ -1,6 +1,6 @@
 <?php
 
-
+ikinci kayıt
 /*
 for()
 {}*/
