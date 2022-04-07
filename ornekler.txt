@@ -1,0 +1,13 @@
+// ornek 1. elimizde bir dizi var bu diziyi ekrana tablo şeklinde yazdıralım
+
+"hasan","can","bay"
+"mustafa","kaya","bay"
+"ceren","kara","bayan"
+"ayşe","hilal","bayan"
+"halit","aslan","bay"
+"kumru","yücel","bayan"
+
+
+iller ->  {"ankara","ısparta", "burdur"  }
+ilceler -> {"aglasun", "yalvaç","serik"}
+koyler -> {" yaka ","yeşilbaşköy","yazır"}
